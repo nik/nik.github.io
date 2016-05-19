@@ -8,7 +8,7 @@ categories: strings&arrays
 There are several ways to figure out whether a string has all unique characters.
 
 <p>
-  There are several ways to do this. In my opinion, the best way is to use a bit vector. This will include some basic knowledge
+  In my opinion, the best way is to use a bit vector. This will include some basic knowledge
   of bit arithmetic. So let's quickly remember some basic bit logic.
   <ul>
     <li><code>1 | 0 = 1</code></li>
